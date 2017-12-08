@@ -6,7 +6,7 @@ googlehomeにTwitterのトレンドを喋らせるプログラム
 GoogleHomeとiftttとRaspberryPiを利用して"ねぇGoogle Twitterのトレンド"と話しかけると現在時間におけるTwitterのトレンドを読み上げるプログラム
 
 ## Demo
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=zNowTRtQ-tI/0.jpg)](https://www.youtube.com/watch?v=zNowTRtQ-tI)
+[![](https://img.youtube.com/vi/zNowTRtQ-tI/0.jpg)](https://www.youtube.com/watch?v=zNowTRtQ-tI)
 
 ## Requirement
 * RaspberryPi
@@ -24,7 +24,7 @@ GoogleHomeとiftttとRaspberryPiを利用して"ねぇGoogle Twitterのトレン
 * Twitter API
 
 ## Usage
-[image](https://i0.wp.com/www.autumn-color.com/wp-content/uploads/2017/12/flowgooglehme.png?zoom=1.399999976158142&resize=680%2C323)
+![image](https://i0.wp.com/www.autumn-color.com/wp-content/uploads/2017/12/flowgooglehme.png?zoom=1.399999976158142&resize=680%2C323)
 
 
 ## Install
