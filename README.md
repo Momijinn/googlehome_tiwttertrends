@@ -1,0 +1,2 @@
+# googlehome_tiwttertrends
+GoogleHomeにTwitterのトレンドを喋らせる
