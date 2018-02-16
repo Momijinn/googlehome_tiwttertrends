@@ -44,7 +44,7 @@ var client = new Twitter({
 
 詳細は下記のURL参照
 
-[URL](https://www.autumn-color.com/?p=1260)
+[URL](http://www.autumn-color.com/?p=1260)
 
 ## Licence
 This software is released under the MIT License, see LICENSE.
